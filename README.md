@@ -11,18 +11,20 @@
 
   <br/><br/>
 
-  <!-- Thay thế 3 dòng giới thiệu bằng gif3 -->
-  <img src="gif3.gif" width="100%" alt="Miku Banner" />
-
-  <br/><br/>
-
-  <!-- Nút mạng xã hội -->
-  <a href="https://github.com/fulord26">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <!-- 2 GIF (gif1 và reze2) nằm 2 bên các nút liên hệ -->
+  <p align="center">
+    <img src="gif1.gif" height="80" alt="GIF 1" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/fulord26">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="reze2.gif" height="80" alt="Reze 2" />
+  </p>
 </div>
 
 ---
@@ -43,10 +45,7 @@
 
 ---
 
-### <p align="center">✨ Gallery & Mood</p>
-
-<p align="center">
-  <img src="reze2.gif" height="100" alt="Reze sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="chibi.gif" height="100" alt="Chibi sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="sonic.gif" height="100" alt="Sonic sticker" />
-</p>
+<div align="center">
+  <!-- GIF 3 ở dưới cùng trang -->
+  <img src="gif3.gif" width="100%" alt="Miku Bottom Banner" />
+</div>
