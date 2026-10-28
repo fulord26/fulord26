@@ -31,29 +31,25 @@
 
 ### <p align="center">🛠️ Tech Stack</p>
 
+<div align="center">
+  <!-- Hàng 1: Ngôn ngữ & Framework chính -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,git,linux,postman,docker,jenkins" alt="Tech Stack Row 1" />
+  </a>
+  <br/>
+  <!-- Hàng 2: Message Queue, Database & Cloud -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,kubernetes,bash" alt="Tech Stack Row 2" />
+  </a>
+</div>
+
+---
+
+### <p align="center">✨ Gallery & Mood</p>
+
 <p align="center">
-  <!-- Quái vật pixel cam bên trái -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d641.gif" width="45" alt="invader" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Dàn logo Tech Stack (Đã bỏ Android và AWS) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/reactivex/D81B60" alt="RxJava" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38"/>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Quái vật pixel cam bên phải -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d641.gif" width="45" alt="invader" />
+  <img src="reze2.gif" height="100" alt="Reze sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="chibi.gif" height="100" alt="Chibi sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="sonic.gif" height="100" alt="Sonic sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="miku.gif" height="100" alt="Miku sticker" />
 </p>
