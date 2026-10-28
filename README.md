@@ -6,29 +6,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=hi+!!+i'm+en.x;java+backend+developer;BrSE+%26+software+engineer" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="reze.gif" width="100%" alt="Banner" />
 
   <br/><br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=hi+!!+i'm+en.x;java+backend+developer;BrSE+%26+software+engineer" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <p>🎓 <b>Software Engineer specializing in Java Backend & High Performance Systems</b></p>
-  <p>💼 <b>Building robust APIs & high-concurrency architectures</b></p>
-  <p>🚀 <b>Passionate about algorithms, system security & optimization</b></p>
 
   <br/>
 
   <a href="https://github.com/fulord26">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:fulord26@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
@@ -45,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;
@@ -62,6 +47,5 @@
 ### <p align="center">📊 GitHub Stats</p>
 
 <div align="center">
- 
   <img src="https://github-readme-stats.vercel.app/api?username=fulord26&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
