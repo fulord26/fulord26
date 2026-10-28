@@ -11,12 +11,10 @@
 
   <br/><br/>
 
-  <!-- Dòng giới thiệu -->
-  <p>🎓 <b>Software Engineer specializing in Java Backend & High Performance Systems</b></p>
-  <p>💼 <b>Building robust APIs & high-concurrency architectures</b></p>
-  <p>🚀 <b>Passionate about algorithms, system security & optimization</b></p>
+  <!-- Thay thế 3 dòng giới thiệu bằng gif3 -->
+  <img src="gif3.gif" width="100%" alt="Miku Banner" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Nút mạng xã hội -->
   <a href="https://github.com/fulord26">
@@ -50,6 +48,5 @@
 <p align="center">
   <img src="reze2.gif" height="100" alt="Reze sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="chibi.gif" height="100" alt="Chibi sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="sonic.gif" height="100" alt="Sonic sticker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="miku.gif" height="100" alt="Miku sticker" />
+  <img src="sonic.gif" height="100" alt="Sonic sticker" />
 </p>
