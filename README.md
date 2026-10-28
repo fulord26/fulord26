@@ -11,19 +11,19 @@
 
   <br/><br/>
 
-  <!-- 2 GIF (gif1 và reze2) nằm 2 bên các nút liên hệ -->
+  <!-- 2 GIF (gif1 và reze2) nằm 2 bên các nút liên hệ đã được làm to ra -->
   <p align="center">
-    <img src="gif1.gif" height="80" alt="GIF 1" />
+    <img src="gif1.gif" height="120" alt="GIF 1" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/fulord26">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
     <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="reze2.gif" height="80" alt="Reze 2" />
+    <img src="reze2.gif" height="120" alt="Reze 2" />
   </p>
 </div>
 
@@ -46,6 +46,6 @@
 ---
 
 <div align="center">
-  <!-- GIF 3 ở dưới cùng trang -->
-  <img src="gif3.gif" width="100%" alt="Miku Bottom Banner" />
+  <!-- GIF 3 ở dưới cùng trang đã được thu nhỏ chiều rộng lại còn 80% -->
+  <img src="gif3.gif" width="80%" alt="Miku Bottom Banner" />
 </div>
