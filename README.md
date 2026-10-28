@@ -19,6 +19,14 @@
     <a href="mailto:fulord26@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="55" alt="Gmail" />
     </a>
+    &nbsp;&nbsp;
+    <a href="882219262821933086">
+      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="55" alt="Discord" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://open.spotify.com/user/31r4odmtzac3ntdls4ghmuy4eybq?si=f58ec88a31ef47ec">
+      <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="55" alt="Spotify" />
+    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="reze2.gif" height="150" alt="Reze 2" />
   </p>
